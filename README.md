@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @AurelD06
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in ..IT
+- 🌱 I’m currently learning ..
+- 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Sa invat
+- 
+- 📫 How to reach me ...adresa mea de e-mail : aureldaineanu4@gmail.com
 
 <!---
 AurelD06/AurelD06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
